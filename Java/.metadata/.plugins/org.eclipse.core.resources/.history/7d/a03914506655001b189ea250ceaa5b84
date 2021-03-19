@@ -1,0 +1,21 @@
+
+public class Object {
+	
+	
+	String name;
+	int age;
+	
+
+	public static void main(String[] args) {
+	
+		//object initialisation using reference variable....
+		
+		Object obj = new Object();
+		obj.name = "Bujo";
+		obj.age = 10 ;
+		System.out.println(obj.name + " " + obj.age);
+	}
+
+	
+
+}

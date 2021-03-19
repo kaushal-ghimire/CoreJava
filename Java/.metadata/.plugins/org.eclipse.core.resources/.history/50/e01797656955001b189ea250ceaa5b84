@@ -1,0 +1,8 @@
+
+public class Behaviour {
+	
+	public  static void eat() {
+		System.out.println("People Eating...");
+	}
+
+}
