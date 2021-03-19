@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;jdbc-lecture-06-updating-data&apos;" deleteContents="false" description="Delete resource &apos;jdbc-lecture-06-updating-data&apos;" element1="/jdbc-lecture-06-updating-data" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1592580793235"/>
+</session>

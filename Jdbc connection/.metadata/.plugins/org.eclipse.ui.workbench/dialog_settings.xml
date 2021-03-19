@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.fatjarpackager.JarPackageWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="C:\Users\kaushal ghimire\Downloads\jdbc-source-code-v2 (1)\jdbc-mysql-course-source-code-v2\lecture-03-setting-up-dev-environment\jdbc-test\src\JdbcTest.java"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\kaushal ghimire\Downloads\jdbc-source-code-v2 (1)\jdbc-mysql-course-source-code-v2\lecture-03-setting-up-dev-environment\jdbc-test\src\JdbcTest.java"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
